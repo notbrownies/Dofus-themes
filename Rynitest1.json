@@ -1,0 +1,26 @@
+[ 
+    { 
+        "author" : "Ryni", 
+        "name" : "Ryni", 
+        "keyWords" : "Kawaii, Bunny", 
+        "version" : "1.0", 
+        "dofusVersion" : "2.67", 
+        "description" : "Personal use.", 
+        "url" : "https://github.com/notbrownies/Dofus-themes/blob/main/Ryniziptest2.zip?raw=true", 
+        "previewUrl" : "https://github.com/notbrownies/Dofus-themes/raw/main/RyniThemePreview.png", 
+        "creationDate" : "20/03/2023", 
+        "modificationDate" : "01/04/2023" 
+    },
+    { 
+        "author" : "Ryni", 
+        "name" : "Purple Rain", 
+        "keyWords" : "Kawaii, Bunny, Purple, Rain", 
+        "version" : "1.0", 
+        "dofusVersion" : "2.67", 
+        "description" : "Personal use.", 
+        "url" : "https://github.com/notbrownies/Dofus-themes/blob/main/PurpleRaintest.zip?raw=true", 
+        "previewUrl" : "https://github.com/notbrownies/Dofus-themes/raw/main/PurpleRainThemePreview.png", 
+        "creationDate" : "20/03/2023", 
+        "modificationDate" : "01/04/2023" 
+    }
+]
